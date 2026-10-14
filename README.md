@@ -31,5 +31,3 @@ $env:GIST_PATH = "C:\path\to\Plant-level-data-Global-Iron-and-Steel-Tracker-Sept
 # bash
 export GIST_PATH=/path/to/Plant-level-data-Global-Iron-and-Steel-Tracker-September-2025-V1.xlsx
 ```
-
-The lab was written for the September 2025 release; this repository uses the June 2026 release, whose column names (`GEM plant ID`, `Country/area`, `Parent (English)`) are mapped back to the lab's names in the setup cell. Numbers therefore differ slightly from those quoted in the lab text.
