@@ -19,8 +19,6 @@ Then start Jupyter and run everything from the top:
 jupyter lab lab3.ipynb
 ```
 
-In Jupyter, use **Kernel → Restart Kernel and Run All Cells**. A full run takes about a minute. Random draws use fixed seeds, so the results match the saved outputs.
-
 ## Data
 
 The setup cell reads the workbook from `data/`. To use another copy or release of the tracker, set the `GIST_PATH` environment variable to its path before starting Jupyter:
