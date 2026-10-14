@@ -1,1 +1,1 @@
-# aidams-lab3-destal-riekhakainen-vlandas
+# aidams-lab3-destal-riekhakainen
